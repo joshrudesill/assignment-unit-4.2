@@ -1,0 +1,22 @@
+.info h2 {
+  color: antiquewhite;
+  background-color: darkslateblue;
+  padding: 10px;
+  margin: 0;
+  text-align: center;
+}
+.info h3 {
+  color: rgb(87, 51, 4);
+  background-color: rgb(111, 196, 219);
+  padding: 10px;
+  margin: 0;
+  text-align: center;
+}
+
+header {
+  background-color: darkslategray;
+}
+
+.info img {
+  width: 100%;
+}
